@@ -14,7 +14,10 @@
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "^7.24",
         "laravel/tinker": "^2.0",
+<<<<<<< HEAD
         "laravel/ui": "2.4",
+=======
+>>>>>>> 96c2d66c196d65b34e820f96ac594a8ef5b75cf5
         "santigarcor/laratrust": "^6.2"
     },
     "require-dev": {
