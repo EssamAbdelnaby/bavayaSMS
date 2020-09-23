@@ -1,9 +1,5 @@
 <?php
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 96c2d66c196d65b34e820f96ac594a8ef5b75cf5
 use Illuminate\Support\Str;
 
 return [
